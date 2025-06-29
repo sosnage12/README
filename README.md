@@ -34,9 +34,9 @@
 
   <h3> How to Reach Me</h3>
   <p>
-    <a href="https://linkedin.com/in/[your-linkedin-profile]" target="_blank">LinkedIn</a> | 
-    <a href="https://github.com/[your-github-username]" target="_blank">GitHub</a> | 
-    <a href="mailto:[your-email@example.com]">Email</a>
+    <a href="www.linkedin.com/in/sosna-gemechu-460606332" target="_blank">LinkedIn</a> | 
+    <a href="https://github.com/sosnage12" target="_blank">GitHub</a> | 
+    <a href="mailto:gemechusosi@gmail.com">Email</a>
   </p>
 
   <hr/>
