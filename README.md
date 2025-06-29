@@ -1,45 +1,42 @@
-<!--
-  GitHub Profile README Template
-  Customize the [insert] parts with your info
--->
-
 <div align="center">
 
-  <h1>Hi, I'm [Your Name] 👋</h1>
-  <h3>A passionate Software Engineer and ALX Back End learner</h3>
+  <h1>Hi, I'm Sosna 👋</h1>
+  <h3>A passionate Software Engineer | ALX Back End Learner | Future Problem Solver</h3>
 
   <p>
-    <strong>Why I started Software Engineering:</strong><br/>
-    [Insert what inspired you to start software engineering, your passion, and motivation.]
+    <strong> Why I started Software Engineering:</strong><br/>
+    My curiosity about how technology works and how software shapes the world pushed me into software engineering. I’m passionate about building solutions that help people and solve real-world problems. Learning how backend systems power apps and websites inspires me every day to dig deeper and grow.
   </p>
 
   <p>
-    <strong>My Vision:</strong><br/>
-    [Insert your vision statement — what you aim to achieve through your work and career.]
+    <strong> My Vision:</strong><br/>
+    To become a highly skilled backend engineer who creates scalable, secure, and high-performance systems that serve millions of users globally. I want to contribute to impactful projects that bring positive change to communities, especially in Africa.
   </p>
 
   <p>
-    <strong>What I Want to Build:</strong><br/>
-    [Insert the types of projects you are excited to work on, e.g., scalable APIs, microservices, data-driven applications, etc.]
+    <strong>Projects I Want to Work On:</strong><br/>
+    - API development and integrations<br/>
+    - Microservices architectures<br/>
+    - Databases and large-scale data management<br/>
+    - Backend systems for web and mobile apps<br/>
+    - Scalable cloud applications
   </p>
 
   <h3>🔧 Technologies & Tools I Use</h3>
   <p>
-    <!-- Add your main tech stack here -->
-    <code>Python</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express.js</code> &nbsp; <code>MySQL</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>Linux</code>
+    <code>Python</code> &nbsp; <code>C</code> &nbsp; <code>SQL</code> &nbsp; <code>Linux</code> &nbsp; <code>Git</code> &nbsp; <code>MySQL</code> &nbsp; <code>Node.js (learning)</code>
   </p>
 
   <h3> Currently Learning</h3>
   <p>
-    <!-- Mention what you are learning currently -->
-    Advanced backend architectures, REST API design, and cloud deployments.
+    Building RESTful APIs, advanced backend design patterns, DevOps basics, and cloud deployment strategies (AWS & GCP fundamentals).
   </p>
 
-  <h3>📫 How to Reach Me</h3>
+  <h3> How to Reach Me</h3>
   <p>
-    <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">LinkedIn</a> | 
-    <a href="https://github.com/[your-github]" target="_blank">GitHub</a> | 
-    <a href="mailto:your.email@example.com">Email</a>
+    <a href="https://linkedin.com/in/[your-linkedin-profile]" target="_blank">LinkedIn</a> | 
+    <a href="https://github.com/[your-github-username]" target="_blank">GitHub</a> | 
+    <a href="mailto:[your-email@example.com]">Email</a>
   </p>
 
   <hr/>
